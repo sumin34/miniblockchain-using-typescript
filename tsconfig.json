@@ -1,0 +1,11 @@
+{
+    "include": ["src"],
+    "compilerOptions": {
+        "outDir": "build",
+        "esModuleInterop": true,
+        "target": "es6",
+        "lib":["ES6"],
+        "module": "CommonJS",
+        "strict":true
+    }
+}
